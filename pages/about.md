@@ -17,6 +17,7 @@ credits: true
 This collection preserves and highlights Filipino films and theatrical productions from the 1990s, a transformative decade in Philippine cultural history. It brings together works that reflect social realities, national identity, and artistic expression during a time of political transition and evolving media. By archiving performances such as stage adaptations of classic zarzuelas and socially charged films, the collection aims to protect cultural memory that is often fragile and under-documented. It serves as a resource for understanding how 1990s Filipino creators used film and theater to critique society, preserve heritage, and express the Filipino experience for future generations.
 
 This database was created by:
+
 • **Angelica C. Amongo, and Charie Joyce B. Cordero** 
 This collection is created by architecture students with a strong appreciation for Philippine heritage, particularly classic Filipino films and theater productions. While trained in spatial design and built environments, the authors extend their interest beyond architecture into cultural preservation, recognizing how performance arts reflect the identity, history, and social fabric of the Filipino people.
 
